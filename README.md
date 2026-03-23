@@ -17,7 +17,6 @@ I am a backend developer who specializes in transforming complex logic and raw d
 <img align="left" alt="Git" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="React" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJs" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Haskell" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
 <img align="left" alt="MATLAB" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
