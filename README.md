@@ -1,5 +1,5 @@
 # 🎸 MrSaurino
-**`Code Alchemist(Developer / DBA / Musician)`**
+**`Code Alchemist (Developer / DBA / Musician)`**
 
 I am a backend developer who specializes in transforming complex logic and raw data into refined, user-centric applications. I build reliable systems from the ground up—ranging from architecting databases for platforms designed to track and analyze workplace well-being. Whether I am optimizing data structures, writing code, or producing music for my projects **Soulement**, I apply the same structural discipline to every system I create.
 
