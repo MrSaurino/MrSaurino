@@ -8,21 +8,21 @@ I am a backend developer who specializes in transforming complex logic and raw d
 
 ## 🧰 Languages and Tools
 
-<p>
-  <img alt="Java" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="SQL Server" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-  <img alt="C#" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="HTML5" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS3" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Git" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Linux" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="PHP" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Python" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Haskell" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-  <img alt="MATLAB" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img alt="LUA" width="45px" style="padding: 20px 30px 20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-</p>
+<div>
+  <img alt="Java" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="SQL Server" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+  <img alt="C#" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="HTML5" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS3" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="PHP" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Git" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Python" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Haskell" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+  <img alt="MATLAB" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img alt="LUA" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+</div>
 
 ## 🧠 More info
 
