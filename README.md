@@ -34,5 +34,5 @@ I am a backend developer who specializes in transforming complex logic and raw d
 ## 📊 Path of Creation
 <div align="center">
   <img height="150em" style="padding: 10px;" src="https://github-stats-extended.vercel.app/api?username=MrSaurino&theme=blue-green&show_icons=true" alt="MrSaurino's GitHub stats" />
-  <img height="130em" style="padding: 10px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrSaurino&layout=compact&theme=blue-green" alt="Top Langs" />
+  <img height="150em" style="padding: 10px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrSaurino&layout=compact&theme=blue-green" alt="Top Langs" />
 </div>
