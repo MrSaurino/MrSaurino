@@ -1,7 +1,7 @@
 # 🎸 MrSaurino
 **`Code Alchemist (Developer / DBA / Musician)`**
 
-I'm a full-stack developer and database architect focused on solving complex technical problems with clean, efficient code. I specialize in taking raw data and turning it into scalable systems, using agile practices and process automation to make tech actually work for people. When I’m not designing databases or automating workflows, you’ll find me doing music for my band **Far Day Vesper**, applying that same attention to detail and structure to every sound.
+I'm a full-stack developer and database architect focused on solving complex technical problems with clean, efficient code. I specialize in taking raw data and turning it into scalable systems, using agile practices and process automation to make tech actually work for people. When I’m not designing databases or automating workflows, you’ll find me doing music for my band **𝐅ar 𝐃ay 𝐕esper 🌙**, applying that same attention to detail and structure to every sound.
 
 <a href="https://discord.com/users/350090206944296961" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/sergio-urbina-arzate-6696503b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
