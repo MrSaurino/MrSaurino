@@ -11,6 +11,7 @@ I'm a full-stack developer and database architect focused on solving complex tec
 <div>
   <img alt="Java" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="SQL Server" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+  <img alt="PostgreSQL" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
   <img alt="C#" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt="HTML5" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS3" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -22,6 +23,7 @@ I'm a full-stack developer and database architect focused on solving complex tec
   <img alt="Haskell" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
   <img alt="MATLAB" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
   <img alt="LUA" width="45px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+  <img alt="LOVE" width="43px" style="padding: 20px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" />
 </div>
 
 ## 🧠 More info
